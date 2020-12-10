@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/eno/static/css/main.45bbe0f0.chunk.css",
+    "main.js": "/eno/static/js/main.d56a4aaf.chunk.js",
+    "main.js.map": "/eno/static/js/main.d56a4aaf.chunk.js.map",
+    "runtime-main.js": "/eno/static/js/runtime-main.a072188a.js",
+    "runtime-main.js.map": "/eno/static/js/runtime-main.a072188a.js.map",
+    "static/js/2.2e88d81d.chunk.js": "/eno/static/js/2.2e88d81d.chunk.js",
+    "static/js/2.2e88d81d.chunk.js.map": "/eno/static/js/2.2e88d81d.chunk.js.map",
+    "static/js/3.75448720.chunk.js": "/eno/static/js/3.75448720.chunk.js",
+    "static/js/3.75448720.chunk.js.map": "/eno/static/js/3.75448720.chunk.js.map",
+    "index.html": "/eno/index.html",
+    "static/css/main.45bbe0f0.chunk.css.map": "/eno/static/css/main.45bbe0f0.chunk.css.map",
+    "static/js/2.2e88d81d.chunk.js.LICENSE.txt": "/eno/static/js/2.2e88d81d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a072188a.js",
+    "static/js/2.2e88d81d.chunk.js",
+    "static/css/main.45bbe0f0.chunk.css",
+    "static/js/main.d56a4aaf.chunk.js"
+  ]
+}
