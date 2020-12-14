@@ -5,6 +5,7 @@ import React, {useState} from "react";
 const FlashCards = () => {
 
     const questionAnswer = [
+        {question: 0, answer: "Welcome. Please shuffle."},
         {question: 1, answer: "Remove specifics and convert to ambiguities"},
         {question: 2, answer: "Think of the radio"},
         {question: 3, answer: "Don't be afraid of cliches"},
@@ -141,6 +142,7 @@ const FlashCards = () => {
     const [randomNumber, setRandomNumber] = useState(0)
     
     const generateRandomNumber = () => {
+        questionAnswer.shift();
         const randomNumber = Math.floor(Math.random() * questionAnswer.length);
         setRandomNumber(randomNumber)
     }
